@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <br>
 
-### Para um contato mais direto pode falar comigo nas redes abaixo!
+### Redes sociais:
 
 <div> 
   <a href="https://www.instagram.com/marcoszarc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
